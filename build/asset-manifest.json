@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ec54c98.css",
+    "main.js": "/static/js/main.3afa61bd.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/music.gif": "/static/media/music.2a8ab5305db656669459.gif",
+    "static/media/smriti.jpeg": "/static/media/smriti.ae8973d8cbfefd14ffc3.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.d0166e9926459115588b.pdf",
+    "static/media/Home4.png": "/static/media/Home4.91d844650a47ba2c7363.png",
+    "static/media/todo1.gif": "/static/media/todo1.1e95d033f3592d87a13a.gif",
+    "static/media/Home5.png": "/static/media/Home5.98ec081a381cc507b54e.png",
+    "static/media/Home9.png": "/static/media/Home9.ba19c4278c652d572217.png",
+    "index.html": "/index.html",
+    "main.9ec54c98.css.map": "/static/css/main.9ec54c98.css.map",
+    "main.3afa61bd.js.map": "/static/js/main.3afa61bd.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ec54c98.css",
+    "static/js/main.3afa61bd.js"
+  ]
+}
